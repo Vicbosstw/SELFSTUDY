@@ -1,0 +1,6 @@
+keywords = [
+    'kib','kif','kie','kig','kih','kii','kij','kik','kio','kip','kiq','kil','kim','kin','kid','kiz','kja','kjb','kjc','kjd','kje','kjf','kjg','kjh','kji','kjj','kjk','kjl','kjz',
+    'kmb','kmc','kmd','kma','keb','kec','ked','kef','keg','keh','kei','kee','kea','kez','kfe','kfd','kfc','kfb','kfa','kfz','kga','kgb','kgc','kha','khb','khc','khd','kna','knb',
+    'knc','knd','kne','knf','knh','kni','knj','knk','kia','kib','kaa','kab','kaj','kak','kae','kac','kad','kaf','kah','kag','kai','kaz','kcb','kca','kcc','kcz','kba','kbz','kda',
+    'kdb','kdc','kdz',
+]

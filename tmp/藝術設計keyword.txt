@@ -1,0 +1,6 @@
+keywords = [
+    'oga','ogd','ogc','ogb','oge','ogf','ogg','ogh','ogi','ogl','ogk','ogj','ogz','ogm','okd','oka','oke','okg','oki','okh','okb','okf','oda','odi','odb','odc','ode','odf','odd',
+    'odg','odh','odz','ofa','ofb','ofc','ofd','ofe','off','ofg','ofh','ofi','ofz','oba','obb','obf','obd','obe','obc','obz','oha','ohi','ohj','ohk','ohh','ohg','ohb','ohc','ohd',
+    'ohe','ohf','ohz','oia','oib','oic','oid','oie','oig','oih','oii','oij','oik','oil','oim','oiz','oja','ojd','ojc','ojb','ojz','oaa','oaf','oae','oad','oac','oab','oca','ocb',
+    'occ','ocd','oce','ocf','ocg','oea','oeb','oea','oec',
+]
